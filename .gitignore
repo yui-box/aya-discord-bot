@@ -1,5 +1,6 @@
 CLAUDE.local.md
 .claude/settings.local.json
+memory/*
 
 # Environment & secrets
 .env
