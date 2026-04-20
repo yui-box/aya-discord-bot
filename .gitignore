@@ -29,3 +29,7 @@ gcp-keyfile.json
 # Auth tokens & configs with secrets
 .npmrc
 .pypirc
+
+
+#obsidian
+vault/*
