@@ -1,0 +1,30 @@
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Credentials & keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.cert
+*.crt
+serviceAccountKey.json
+*-credentials.json
+credentials.json
+secrets.json
+config/secrets.*
+
+# Cloud provider credentials
+.aws/credentials
+.gcloud/
+gcp-keyfile.json
+
+# Auth tokens & configs with secrets
+.npmrc
+.pypirc
